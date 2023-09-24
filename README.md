@@ -2,8 +2,6 @@
 
 New York Times Clone built with React.
 
-This is the final project from the React course on the online course provider [Start2Impact](https://www.start2impact.it/), where I'm studying front-end development.
-
 ## Link
 
 [Project URL]("https://new-york-times-assignment.vercel.app/") (hosted on Vercel)
