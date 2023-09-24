@@ -4,7 +4,7 @@ New York Times Clone built with React.
 
 ## Link
 
-[Project URL]("https://new-york-times-assignment.vercel.app/") (hosted on Vercel)
+https://new-york-times-assignment.vercel.app/ (hosted on Vercel)
 
 
 ## Project
