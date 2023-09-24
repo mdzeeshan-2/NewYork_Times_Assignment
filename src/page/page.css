@@ -1,0 +1,39 @@
+.region{
+    margin-top: .5%;
+    /* margin-top: 10%; */
+    font-family: nyt-franklin, helvetica, arial, sans-serif;
+    text-decoration: none;
+    text-transform: capitalize;
+    width: 500px;
+    font-size: 13px;
+    font-weight: 500;
+    height: 23px;
+    line-height: 16px;
+    
+}
+.region {
+    list-style: none; /* Remove default list styles */
+   }
+  
+  .li {
+    display: inline; 
+    margin-right: 10px; 
+  }
+  
+.li:hover {
+    text-decoration: underline; 
+    cursor: pointer;
+  }
+  .li {
+    display: inline; 
+    margin-right: 10px;
+    border-right: 1px solid #ebebeb;; 
+    padding-right: 10px; 
+  }
+
+  .li:last-child {
+    border-right: none;
+  }
+  .horizontal-line{
+    color: black !important;
+  }

@@ -1,0 +1,94 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-inter: Inter;
+    --font-roboto: Roboto;
+  
+    /* font sizes */
+    --font-size-3xs: 0.63rem;
+    --font-size-2xs: 0.69rem;
+    --font-size-smi: 0.81rem;
+    --font-size-xs: 0.75rem;
+    --font-size-base-4: 0.96rem;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-gainsboro: #ddd;
+    --color-dimgray: #666;
+    --color-black: #000;
+    --color-darkslategray: #333;
+  
+    /* Paddings */
+    --padding-4xs: 0.56rem;
+    --padding-smi: 0.81rem;
+    --padding-31xl: 3.13rem;
+    --padding-3xs: 0.63rem;
+    --padding-8xs: 0.31rem;
+    --padding-121xl: 8.75rem;
+    --padding-7xs: 0.38rem;
+    --padding-43xl: 3.88rem;
+    --padding-base-4: 1.02rem;
+    --padding-mini: 0.94rem;
+    --padding-33xl: 3.25rem;
+    --padding-90xl: 6.81rem;
+    --padding-116xl: 8.44rem;
+    --padding-120xl: 8.69rem;
+    --padding-142xl: 10.06rem;
+    --padding-143xl: 10.13rem;
+    --padding-145xl: 10.25rem;
+    --padding-131xl: 9.38rem;
+    --padding-111xl: 8.13rem;
+    --padding-153xl: 10.75rem;
+    --padding-113xl: 8.25rem;
+    --padding-140xl: 9.94rem;
+    --padding-136xl: 9.69rem;
+    --padding-123xl: 8.88rem;
+    --padding-103xl: 7.63rem;
+    --padding-86xl: 6.56rem;
+    --padding-68xl: 5.44rem;
+    --padding-144xl: 10.19rem;
+  }
+  
+.play-speeling-bee {
+    position: relative;
+    font-family: nyt-franklin, helvetica, arial, sans-serif;
+    letter-spacing: 0.55px;
+    line-height: 0.69rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-transform: capitalize;
+    /* width: 150px; */
+    font-size: 15px;
+    font-weight: 11000;
+    /* height: 23px; */
+    /* line-height: 16px; */
+  }
+  .link,
+  .spancss-gfqyex {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .spancss-gfqyex {
+    border-radius: 3px;
+    background-color: #567b95;
+    border: 1px solid #326891;
+    padding: var(--padding-4xs) 1.21rem var(--padding-4xs) var(--padding-smi);
+  }
+  .link {
+    position: relative;
+    width: 100%;
+    padding: 0 0.44rem 0 0;
+    box-sizing: border-box;
+    text-align: left;
+    font-size: var(--font-size-3xs);
+    color: var(--color-white);
+    font-family: var(--font-inter);
+  }
+ 
+  

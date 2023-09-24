@@ -1,0 +1,107 @@
+.head{
+    display: inline-block;
+    margin-top: 1%;
+    font-size: 13px;
+  font-weight: 700;
+    font-family: nyt-franklin, helvetica, arial, sans-serif;
+}
+.list{
+    margin-top: 7%;
+}
+.News{
+    /* display: inline-block; */
+  font-family: nyt-franklin, helvetica, arial, sans-serif;
+  text-decoration: none;
+  text-transform: capitalize;
+  width: 150px;
+  font-size: 13px;
+  font-weight: 500;
+  height: 23px;
+  line-height: 16px;
+}
+.News .news_text:hover {
+    text-decoration: underline;
+  }
+.footer-section{
+    display: inline;
+}
+.footer-news,
+.footer-opinion {
+  margin-right: 10px; /* Add some margin between the two sections */
+}
+.footer-news {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 50px;
+    margin-top: 1.2%;
+  }
+  .footer_opinion {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 47px;
+    margin-top: 1.2%;
+  }
+  .head-subs{
+    display: inline-block;
+    margin-top: 1%;
+    font-size: 15px;
+  font-weight: 700;
+    font-family: nyt-franklin, helvetica, arial, sans-serif;
+    margin-left: 10%;
+}
+.subscribe-row{
+    margin-top: 7%;
+    margin-left: 10%;
+}
+.subs-row{
+    font-family: nyt-franklin, helvetica, arial, sans-serif;
+  text-decoration: none;
+  text-transform: capitalize;
+  width: 150px;
+  font-size: 16px;
+  font-weight: 700;
+  height: 25px;
+  line-height: 15px;
+}
+.News-list{
+    /* display: inline-block; */
+    margin-top: 10%;
+  font-family: nyt-franklin, helvetica, arial, sans-serif;
+  text-decoration: none;
+  text-transform: capitalize;
+  width: 150px;
+  font-size: 13px;
+  font-weight: 500;
+  height: 23px;
+  line-height: 16px;
+}
+.news-list{
+    font-size: 90%;
+    margin-top: 8%;
+    margin-left: 10%;
+}
+.News-list-bottom{
+    /* display: inline-block; */
+    margin-top: -10%;
+  font-family: nyt-franklin, helvetica, arial, sans-serif;
+  text-decoration: none;
+  text-transform: capitalize;
+  width: 150px;
+  font-size: 13px;
+  font-weight: 500;
+  height: 23px;
+  line-height: 16px;
+}
+.news-list-bottom{
+    font-size: 90%;
+    margin-top: 7%;
+    /* margin-left: 10%; */
+}
+.copyright p{
+  font-size: 10px;
+  display: inline;
+  color: #666;
+  font-family: nyt-franklin,helvetica,arial,sans-serif;
+  margin-right: 20px;
+  margin-top: 1px;
+}
