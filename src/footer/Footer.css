@@ -105,3 +105,47 @@
   margin-right: 20px;
   margin-top: 1px;
 }
+@media (max-width: 768px) {
+
+
+  .copyright {
+    margin-top: 10px;
+    text-align: center; /* Center align the content */
+  }
+
+  .copyright p {
+    display: block; /* Display each paragraph on a new line */
+    margin: 2px 0; /* Add 2px margin top and bottom for spacing */
+  }
+
+  /* Style for the first paragraph */
+  .copyright p:first-child {
+    font-size: 14px; /* Increase the font size */
+    margin: 11px 0; /* Adjust margin for spacing */
+  }
+
+  /* Style for the second paragraph */
+  .copyright p:nth-child(n+2):nth-child(-n+7) {
+    display: inline; /* Display in-line */
+    font-size: 10px; /* Reset font size */
+    margin-right: 20px; /* Reset margin */
+    margin-top: 1px; /* Reset margin */
+  }
+
+  /* Style for the third paragraph */
+  .copyright p:nth-child(n+8) {
+    display: inline; /* Display in-line */
+    font-size: 10px; /* Reset font size */
+    margin-right: 2px; /* Adjust margin for spacing */
+  }
+  .column{
+    /* background-color: red; */
+    padding-top: 10px;
+    padding-left: -2px;
+  }
+  .News-list-bottom{
+    /* background-color: red; */
+    /* padding-top: 40px; */
+    display: inline;
+  }
+}
