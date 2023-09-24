@@ -6,7 +6,7 @@ This is the final project from the React course on the online course provider [S
 
 ## Link
 
-[Project URL]() (hosted on Netlify)
+[Project URL]("https://new-york-times-assignment.vercel.app/") (hosted on Vercel)
 
 
 ## Project
